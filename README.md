@@ -122,7 +122,7 @@ Apache 2.0
            
   BLOG MANAGEMENT:
   
-           [POST] /blogs/create-new
+           [POST] /blogs/create-new : Create new blog post (admin/editor/superadmin only)
   
            [GET] /blogs: Get a list of blogs.
            
