@@ -122,6 +122,8 @@ Apache 2.0
            
   BLOG MANAGEMENT:
   
+           [POST] /blogs/create-new
+  
            [GET] /blogs: Get a list of blogs.
            
            [GET] /blogs/category/{blog_id}: Get blog details.
